@@ -2,6 +2,7 @@
 
 """Defines a matrix division function."""
 
+
 def matrix_divided(matrix, div):
     """Divides all elements of a matrix.
 
